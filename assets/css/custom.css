@@ -1,0 +1,218 @@
+@media (min-width: 992px){
+    .o-header__logo {
+        width: 200px;
+
+        text-align: center;
+    }
+}
+
+.o-header__handle {
+    background-color: #000000;
+}
+
+@media (min-width: 992px){
+    .o-nav {
+        margin-left: 200px;
+        background-color: rgba(0,0,0,.6);
+        box-shadow: 0 3px 6px rgba(0,0,0,.05), 0 3px 6px rgba(0,0,0,.08);
+    }
+}
+
+
+
+.o-header__handle {
+    background-color: #000000 !important;
+}
+
+.o-header__logo img {
+    min-width: 80px!important;
+}
+
+
+.o-lead h3 {
+    color: white !important;
+    font-weight: normal; !important;
+}
+
+span.hook-animated-type {
+    color: #ffffff !important;
+}
+
+span.tel {
+    color: #0068ff;
+}
+
+.o-service-title {
+    color: #ffffff;
+}
+
+.o-service-subtitle {
+    color: #000000;
+}
+
+.o-page__header {
+    background-color: #000000 !important;
+}
+
+.testimonial-company {
+    color: #ff755d !important;
+}
+
+.c-tooltip, .o-app {
+    box-shadow: none !important;
+}
+
+body {
+    background-color: #000000 !important;
+    color: black !important;
+}
+
+#full-team {
+    background-color: #f9bf3a !important;
+}
+
+span.typed-cursor {
+    color: #ffffff !important;
+}
+
+
+
+@media only screen and (max-width: 620px) {
+    .second-number {
+        display: block;
+    }
+
+    /* a.o-hero__button.c-button {
+         width: 100%;
+     }*/
+}
+
+@media only screen and (min-width: 620px) {
+    .second-number {
+        display: none;
+    }
+
+    span.tel {
+        color: #ffffff !important;
+        font-size: 20px !important;
+    }
+}
+
+.second-number {
+    margin-top: 50px;
+    right: 0;
+    text-align: right;
+}
+
+.second-number a {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#full-team a {
+    color: #ffffff !important;
+}
+
+
+@media only screen and (min-width: 620px) {
+    .contact-us-span {
+        color: black !important;
+    }
+
+}
+
+#full-team a:active, #full-team a:link, #full-team a:visited {
+    font-size: 15px !important;
+    font-weight: 800 !important;
+}
+
+a.o-header__logo {
+    background-color: #000000;
+}
+
+a.external {
+    color: white;
+}
+
+.o-header__logo img {
+    min-width: 50px!important;
+}
+
+
+
+.c-burger, .c-burger:after, .c-burger:before {
+    background-color: #ffffff !important;
+}
+
+.cs-yellow-text{
+    color: #ffffff !important;
+}
+
+.cs-white-text{
+    color: #ffffff !important;
+}
+
+footer.o-footer {
+    background-color: black;
+}
+
+.cs-tel-footer{
+    color: #ffffff !important;
+    font-size: 15px !important;
+    font-weight: 300; !important;
+}
+
+.o-footer__desktop .o-footer__list li a {
+    color: #ffffff !important;
+}
+
+.o-footer__desktop .o-footer__address {
+    color: #ffffff !important;
+}
+
+p.o-footer__cta {
+    color: #ffffff;
+}
+
+.c-testimonial-tile {
+    background: #000 !important;
+}
+
+.row.three-col-testimonial {
+    margin-bottom: 200px;
+}
+
+.on-froze-logo{
+    background-color: white !important;
+    margin: 0;
+    text-align: center;
+}
+
+.o-team-carousel {
+    background-color: black;
+}
+
+a, abbr[title] {
+    text-decoration: auto !important;
+}
+
+.c-card.u-m-b-2 {
+    background-color: #f3f3f3 !important;
+}
+
+.action-button {
+    background-color: black !important;
+}
+
+.emp-card h2 {
+    font-size: 20px;
+    color: #000000;
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+}
+
+.emp-card h2 {
+    color: #000000 !important;
+    font-weight: 900 !important;
+}
