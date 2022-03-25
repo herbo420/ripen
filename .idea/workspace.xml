@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9a837b9-f058-44f3-8973-f8a7708e658a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/careers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/careers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/company/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/company/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pricing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy-policy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy-policy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/services/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -443,7 +440,7 @@
       <workItem from="1640481047418" duration="18000" />
       <workItem from="1647710830707" duration="1457000" />
       <workItem from="1648161158425" duration="579000" />
-      <workItem from="1648175942622" duration="2990000" />
+      <workItem from="1648175942622" duration="3673000" />
     </task>
     <servers />
   </component>
