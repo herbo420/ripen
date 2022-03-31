@@ -127,7 +127,7 @@ span.typed-cursor {
 }
 
 a.o-header__logo {
-    background-color: transparent;
+    background-color: rgba(0,0,0,.6);
     display: inline-flex;
 }
 
