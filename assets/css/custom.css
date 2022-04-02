@@ -217,21 +217,3 @@ a, abbr[title] {
     color: #000000 !important;
     font-weight: 900 !important;
 }
-
-
-.o-hero__heading {
-    color: #fff;
-    font-weight: normal !important;
-    font-size: 20px;
-    line-height: 20px;
-    text-shadow: rgb(0 0 0 / 15%) 1px 1px;
-    text-transform: none !important;
-    margin-bottom: 10px !important;
-}
-
-@media (min-width: 1350px){
-    .o-hero__heading {
-        font-size: 50px !important;
-        line-height: 50px !important;
-    }
-}
