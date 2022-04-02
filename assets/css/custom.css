@@ -217,3 +217,11 @@ a, abbr[title] {
     color: #000000 !important;
     font-weight: 900 !important;
 }
+
+
+@media (min-width: 1350px){
+    .o-hero__heading {
+        font-size: 50px !important;
+        line-height: 50px !important;
+    }
+}
