@@ -218,3 +218,6 @@ a, abbr[title] {
     font-weight: 900 !important;
 }
 
+h1.custom-heading {
+    color: white;
+}
