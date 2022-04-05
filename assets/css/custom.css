@@ -221,3 +221,48 @@ a, abbr[title] {
 h1.custom-heading {
     color: white;
 }
+
+
+
+
+#adage-2017 {
+    width: 100px;
+    height: auto;
+    position: absolute;
+    top: 45px;
+    right: 0;
+    z-index: 1000000;
+
+}
+@media screen and (min-width: 543px){
+    #adage-2017 { top: 70px; }
+
+}@media screen and (min-width: 991px){
+    #adage-2017 { top: 180px; }
+
+}
+@media screen and (min-width: 1044px){
+    #adage-2017 { width: 150px; }
+}
+
+.o-lead {
+    background-color: black;
+}
+
+h2.o-case-studies-listing__subheading {
+    text-align: center;
+}
+
+.container--narrow h2 {
+    color: #ffffff;
+}
+
+#fondo:before {
+    content:'';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0 0 0 / 35%);
+}
