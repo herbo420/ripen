@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9a837b9-f058-44f3-8973-f8a7708e658a" name="Default Changelist" comment="" />
+    <list default="true" id="e9a837b9-f058-44f3-8973-f8a7708e658a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/paginas-web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/paginas-web/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../herbalist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -445,6 +447,7 @@
       <workItem from="1649124149477" duration="9379000" />
       <workItem from="1649141154402" duration="1645000" />
       <workItem from="1649632330703" duration="1998000" />
+      <workItem from="1649640017394" duration="37000" />
     </task>
     <servers />
   </component>
