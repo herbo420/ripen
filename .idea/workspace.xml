@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e9a837b9-f058-44f3-8973-f8a7708e658a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/autocars-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/autocars-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/paginas-web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/paginas-web/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -443,6 +442,8 @@
       <workItem from="1649632330703" duration="1998000" />
       <workItem from="1649640017394" duration="37000" />
       <workItem from="1651015973249" duration="93000" />
+      <workItem from="1651026531825" duration="28000" />
+      <workItem from="1651079581334" duration="55000" />
     </task>
     <servers />
   </component>
